@@ -1,6 +1,6 @@
 # Claude Test
 
-A sandbox for exploring Claude Code — AI-assisted development in the terminal.
+A sandbox for exploring [Claude Code](https://claude.ai/code) — AI-assisted development in the terminal.
 
 ## Getting Started
 
